@@ -14,8 +14,8 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 {%
   include button.html
   type="email"
-  text="jane@smith.com"
-  link="jane@smith.com"
+  text="hayk.zakaryan@ysu.am"
+  link="hayk.zakaryan@ysu.am"
 %}
 {%
   include button.html
@@ -26,8 +26,8 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 {%
   include button.html
   type="address"
-  tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps"
+  tooltip="Chair of Semiconductor Physics and Microelectronics, Yerevan State University, Republic of Armenia, Yerevan, 0025, 1 Alex Manoogian"
+  link="https://maps.app.goo.gl/X7BA7YgzQ9NLaQTM7"
 %}
 
 {% include section.html %}

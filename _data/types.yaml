@@ -10,6 +10,10 @@ postdoc:
   icon: fa-solid fa-glasses
   description: Postdoctoral Researcher
 
+research-scientist:
+  icon: fa-solid fa-flask
+  description: Research Scientist
+
 phd:
   icon: fa-solid fa-graduation-cap
   description: PhD Student
@@ -119,6 +123,12 @@ linkedin:
   text: LinkedIn
   tooltip: LinkedIn
   link: https://www.linkedin.com/in/$VALUE
+
+researchgate:
+  icon: fa-brands fa-researchgate
+  text: ResearchGate
+  tooltip: ResearchGate
+  link: https://www.researchgate.net/profile/$VALUE
 
 # alerts
 

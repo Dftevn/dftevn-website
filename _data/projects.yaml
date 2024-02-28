@@ -1,17 +1,17 @@
-- title: Cool Dataset
-  subtitle: a subtitle
+- title: New Li-Ion Solid-State Electrolytes
+  subtitle: Halognide-based solid-state electrolytes
   group: featured
-  image: images/photo.jpg
+  image: images/projects/sse.png
   link: https://github.com/
   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
   repo: greenelab/lab-website-template
   tags:
     - resource
 
-- title: Cool Package
-  subtitle: a subtitle
+- title: 2D Tungsten Nitrides
+  subtitle: novel 2D materials
   group: featured
-  image: images/photo.jpg
+  image: images/projects/2D_WN.png
   link: https://github.com/
   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
   repo: greenelab/lab-website-template

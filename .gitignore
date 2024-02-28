@@ -2,7 +2,9 @@ _site
 .sass-cache
 .jekyll-cache
 .jekyll-metadata
+.bundle
 vendor
+venv
 debug.log
 __pycache__
 .cache

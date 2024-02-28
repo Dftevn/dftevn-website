@@ -1,9 +1,9 @@
 # site properties and page defaults
-title: Lab Website Template
-subtitle: by the Greene Lab
-description: An easy-to-use, flexible website template for labs, with automatic citations, GitHub tag imports, pre-built components, and more.
-header: images/background.jpg
-footer: images/background.jpg
+title: Computational Material Science Lab
+subtitle: at Yerevan State University
+description: Exploring Novel Solid-State Electrolytes and 2D Crystal Structures for Batteries and Sensors Using Computational Methods
+header: images/background.png
+footer: images/background.png
 
 # site social media and other links
 links:
