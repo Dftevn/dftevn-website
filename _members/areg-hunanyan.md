@@ -8,13 +8,10 @@ links:
   research-gate: Areg-Hunanyan-2
 ---
 
-Areg Hunanyan is a researcher at the Computational Materials Science Laboratory within the Research Institute for Physics, 
-specializing in the computational search for novel two-dimensional tin oxides and their applications in semiconductor gas sensors. 
-Born in 1996, Areg pursued his higher education at Yerevan State University in the field of Radiophysics, earning his 
-Bachelor's degree (2013-2017) and subsequently his Master's degree (2017-2019). In 2022, he earned his PhD, guided by Vladimir M. Aroutiounian.
-Since 2020, he has been working as a Research Scientist at Yerevan State University, where he applies his expertise in computational chemistry
-and materials science to his research. His scientific interests focus on advanced materials for energy conversion and 
-storage applications, solid-state electrolytes, catalysis, gas sensing, and semiconductor devices.
+Areg Hunanyan is a Ph.D. and research scientist at &quot;Computational Materials Science
+Laboratory&quot;. He is specialized in machine learning interatomic potentials for ionic
+conductivity calculation of solids, and USPEX calculation. Areg performed several
+USPEX searches of 2D materials for gas sensing applications.
 
 
 
