@@ -1,22 +1,25 @@
 ---
 ---
 
-# Lab Website Template
+# Welcome to the Computational Materials Science Laboratory
+The &quot;Computational Materials Science Laboratory&quot; is a part of the &quot;Center of
+Semiconductor Devices and Nanotechnology&quot; at Institute of Physics of Yerevan State
+University.
+Our goals are:
 
-[Lab Website Template](https://github.com/greenelab/lab-website-template) is an easy-to-use, flexible website template for [labs](https://www.greenelab.com/).
-Spend less time worrying about managing a website and citations, and more time running your lab.
+- Design and predict new materials for various applications․
+- Develop novel computational methods for accelerating materials discovery and characterization.
 
-{%
-  include button.html
-  type="docs"
-  link="https://greene-lab.gitbook.io/lab-website-template-docs"
-%}
-{%
-  include button.html
-  type="github"
-  text="On GitHub"
-  link="greenelab/lab-website-template"
-%}
+The computational methods combine ab-inito methods, solid
+state physics, chemistry, evolutionary structure search algorithms and AI.
+Our focus areas encompass solid-state battery materials, including those based on Li-ion, 
+post Li-ion, and organic batteries. Additionally, we are actively involved in the
+exploration of novel 2D materials for catalytic applications and the design of super-hard
+materials.
+For those passionate about these research areas and computational work, whether
+you&#39;re a student, PhD candidate, or PostDoc, our lab presents exciting opportunities.
+Join us on a journey to delve into the dynamic and fascinating realm of materials
+science!
 
 {% include section.html %}
 
