@@ -1,1 +1,1 @@
-Sitemap: /dftevn-website/sitemap.xml
+Sitemap: /sitemap.xml
