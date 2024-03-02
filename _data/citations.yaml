@@ -209,3 +209,28 @@
   orcid: 0000-0002-9467-3622
   plugin: orcid.py
   file: orcid.yaml
+- id: 10.1021/acs.jpcc.1c10252
+  title: Computational Search and Stability Analysis of Two-Dimensional Tin Oxides
+  authors:
+  - Areg A. Hunanyan
+  - Vladimir M. Aroutiounian
+  - Hayk A. Zakaryan
+  publisher: The Journal of Physical Chemistry C
+  date: '2022-02-24'
+  link: https://doi.org/gtjs5b
+  image: https://pubs.acs.org/cms/10.1021/acs.jpcc.1c10252/asset/images/medium/jp1c10252_0009.gif
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.1038/S41598-017-10331-Z
+  title: Stable reconstruction of the (110) surface and its role in pseudocapacitance
+    of rutile-like RuO2
+  authors:
+  - Hayk A. Zakaryan
+  - Alexander G. Kvashnin
+  - Artem R. Oganov
+  publisher: Scientific Reports
+  date: '2017-09-04'
+  link: https://doi.org/gtjs5p
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41598-017-10331-z/MediaObjects/41598_2017_10331_Fig4_HTML.jpg?
+  plugin: sources.py
+  file: sources.yaml
