@@ -1,0 +1,77 @@
+# site properties and page defaults
+title: Computational Material Science Lab
+subtitle: at Yerevan State University
+description: Exploring Novel Solid-State Electrolytes and 2D Crystal Structures for Batteries and Sensors Using Computational Methods
+header: images/background.png
+footer: images/background.png
+
+# site social media and other links
+links:
+  email: hayk.zakaryan@ysu.am
+  orcid: 0000-0002-6105-3013
+  google-scholar: j4e2qYUAAAAJ
+  github: Dftevn
+
+### jekyll settings
+
+# front matter defaults
+defaults:
+  # all markdown files
+  - scope:
+      path: ""
+    values:
+      layout: default
+  # markdown files in /_members
+  - scope:
+      type: "members"
+    values:
+      layout: member
+  # markdown files in /_posts
+  - scope:
+      type: "posts"
+    values:
+      layout: post
+  - scope:
+      type: "projects"
+    values:
+      layout: project
+
+collections:
+  # generate page for each member
+  members:
+    output: true
+  # generate page for each post
+  posts:
+    output: true
+  # generate page for each project
+  projects:
+    output: true
+
+# jekyll plugins
+plugins:
+  - jekyll-spaceship
+  - jekyll-sitemap
+  - jekyll-redirect-from
+  - jekyll-feed
+  - jekyll-last-modified-at
+
+# code block syntax highlighting
+highlighter: rouge
+
+# jekyll theme
+theme: null
+
+# sass settings
+sass:
+  sass_dir: _styles
+
+# force jekyll to include certain files/folders
+include:
+  - _styles
+  - _scripts
+
+# force jekyll to exclude certain files/folders
+exclude:
+  - README.md
+  - LICENSE.md
+  - CITATION.cff
