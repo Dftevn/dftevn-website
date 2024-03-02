@@ -1,20 +1,20 @@
 ---
-title: Research
+title: Publications
 nav:
   order: 1
   tooltip: Published works
 ---
 
-# {% include icon.html icon="fa-solid fa-microscope" %}Research
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+# {% include icon.html icon="fa-solid fa-microscope" %}Publications
 
 {% include section.html %}
 
 ## Highlighted
 
 {% include citation.html lookup="New Tungsten Borides, Their Stability and Outstanding Mechanical Properties" style="rich" %}
+{% include citation.html lookup="Stable reconstruction of the (110) surface and its role in pseudocapacitance of rutile-like RuO2" style="rich" %}
+{% include citation.html lookup="2D-Mo3S4 phase as promising contact for MoS2" style="rich" %}
+{% include citation.html lookup="Computational Search and Stability Analysis of Two-Dimensional Tin Oxides" style="rich" %}
 
 {% include section.html %}
 
