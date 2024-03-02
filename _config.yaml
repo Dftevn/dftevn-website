@@ -1,13 +1,13 @@
 # site properties and page defaults
-title: Computational Material Science Lab
-subtitle: at Yerevan State University
-description: Exploring Novel Solid-State Electrolytes and 2D Crystal Structures for Batteries and Sensors Using Computational Methods
+title: Dftevn
+subtitle: 
+description: An engaging 1-3 sentence description of your lab.
 header: images/background.png
 footer: images/background.png
 
 # site social media and other links
 links:
-  email: hayk.zakaryan@ysu.am
+  email: contact@Dftevn.com
   orcid: 0000-0002-6105-3013
   google-scholar: j4e2qYUAAAAJ
   github: Dftevn
