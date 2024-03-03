@@ -1,7 +1,7 @@
 ---
 title: Solid state Li-ion conductors and all solid state battery materials․
 group: featured
-image: images/projects/sse.png
+image: images/projects/SSE_Li.png
 description: The project aims to use computational methods, including data mining, machine learning, and evolutionary algorithms, to accelerate the search for novel solid state electrolytes for future energy storage systems, addressing current limitations in ion conductivity and material compatibility.
 tags:
   - resource

@@ -1,7 +1,7 @@
 ---
 title: Design of organic solid-state materials for battery applications.
 group: featured
-image: images/projects/sse.png
+image: images/projects/organic.jpg
 description: The project aims to address global environmental challenges by developing sustainable and clean battery technologies, focusing on organic electrode materials for their cost-effectiveness and recyclability, in combination with solid-state electrolytes to enhance battery performance and sustainability.
 tags:
   - resource

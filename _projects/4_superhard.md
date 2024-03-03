@@ -1,6 +1,6 @@
 ---
 title: Computational Search for Super-hard materials.
-image: images/projects/sse.png
+image: images/projects/superhard.png
 description: The research aims to identify new superhard materials, focusing on carbides, borides, and nitrides, to expand the range of compounds with exceptional hardness for use in industrial applications.
 tags:
   - resource
