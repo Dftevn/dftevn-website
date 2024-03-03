@@ -2,6 +2,12 @@
 name: Areg Hunanyan
 image: images/team/areg.png
 role: research-scientist
+aliases:
+  - A. Hunanyan
+  - A Hunanyan
+  - Areg A. Hunanyan
+  - A. A. Hunanyan
+  - A.A. Hunanyan
 links:
   home-page: https://www.ysu.am/en/user/1284
   google-scholar: ZGMXO2YAAAAJ&

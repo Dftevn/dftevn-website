@@ -2,6 +2,12 @@
 name: Misha Aghamalyan
 image: images/team/misha.jpg
 role: research-scientist
+aliases:
+  - M. Aghamalyan
+  - M. A. Aghamalyan
+  - Misha A. Aghamalyan
+  - M.A. Aghamalyan
+  - M. A. Agamalyan
 links:
   home-page: https://www.ysu.am/en/user/1283
   google-scholar: BBqicPsAAAAJ&
