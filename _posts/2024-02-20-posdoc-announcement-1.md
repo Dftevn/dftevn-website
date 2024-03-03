@@ -12,7 +12,7 @@ Institution:            | Computational Materials Science Laboratory, Yerevan St
 Location:               | {% include icon.html icon="fa-solid fa-location-dot" %} Yerevan, Republic of Armenia
 Application Deadline:   | {% include icon.html icon="fa-regular fa-calendar" %} 30 April 2024
 Starting Date:          | {% include icon.html icon="fa-regular fa-calendar" %} October 2024
-Duration::              | 2 years
+Duration:               | 2 years
 
 ## Description:
 CMS Lab invites applications for a Postdoctoral Research Fellow position in Atomistic
