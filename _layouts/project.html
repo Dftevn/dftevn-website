@@ -6,6 +6,19 @@ layout: default
 
 {% include section.html %}
 
+{% capture floatcontent %}
+
+{%
+  include project-figure.html
+  lookup=page.slug
+  link="research"
+  text=text
+%}
+
+{% endcapture %}
+
+{% include float.html content=floatcontent %}
+
 {{ content }}
 
 {% include section.html %}
