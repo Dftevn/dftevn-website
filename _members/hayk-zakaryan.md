@@ -3,12 +3,11 @@ name: Hayk Zakaryan
 image: images/team/hayk.png
 role: pi
 aliases:
-  - H. Zakaryan
-  - H Zakaryan
   - Hayk A. Zakaryan
   - H.A. Zakaryan
   - A. A. Zakaryan
   - H. A. Zakaryan
+  - H. Zakaryan
 links:
   home-page: https://www.ysu.am/en/user/1279
   google-scholar: j4e2qYUAAAAJ
