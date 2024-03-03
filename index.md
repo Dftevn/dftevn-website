@@ -42,7 +42,7 @@ We invite you to explore our collection of research papers, where you can read a
 
 {%
   include feature.html
-  image="images/projects/sse.png"
+  image="images/projects/superhard.png"
   link="research"
   title="Our Research"
   text=text
@@ -65,7 +65,7 @@ In our projects section, we showcase our current active projects.
 
 {%
   include feature.html
-  image="images/projects/sse.png"
+  image="images/projects/SSE_Li.png"
   link="projects"
   title="Our Projects"
   flip=true
